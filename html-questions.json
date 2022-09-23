@@ -1,0 +1,82 @@
+[
+    {
+        "question":"1.HTML stands for",
+        "answer-1":"HighText Machine Language",
+        "answer-2":"HyperText and links Markup Language",
+        "answer-3":"HyperText Markup Language",
+        "answer-4":"Hyper Text Makeup Language",
+        "right-answer":"HyperText Markup Language"
+    },
+    {
+        "question":"2.The correct sequence of HTML tags for starting a webpage is",
+        "answer-1":"Head, Title, HTML, body",
+        "answer-2":"HTML, Body, Title, Head",
+        "answer-3":"HTML, Title, Head, Body",
+        "answer-4":"HTML, Head, Title, Body",
+        "right-answer":"HTML, Head, Title, Body"
+    },
+    {
+        "question":"3.Which of the following element is responsible for making the text bold in HTML?",
+        "answer-1":"<pre>",
+        "answer-2":"<a>",
+        "answer-3":"<b>",
+        "answer-4":"<br>",
+        "right-answer":"<b>"
+    },
+    {
+        "question":"4.Which of the following tag is used for inserting the largest heading in HTML?",
+        "answer-1":"<h3>",
+        "answer-2":"<h1>",
+        "answer-3":"<h5>",
+        "answer-4":"<h6>",
+        "right-answer":"<h1>"
+    },
+    {
+        "question":"5.Which of the following tag is used to insert a line-break in HTML?",
+        "answer-1":"<br>",
+        "answer-2":"<b>",
+        "answer-3":"<a>",
+        "answer-4":"<div>",
+        "right-answer":"<br>"
+    },
+    {
+        "question":"6.How to create an unordered list (a list with the list items in bullets) in HTML?",
+        "answer-1":"<ul>",
+        "answer-2":"<ol>",
+        "answer-3":"<li>",
+        "answer-4":"<i>",
+        "right-answer":"<ul>"
+    },
+    {
+        "question":"7.Which character is used to represent the closing of a tag in HTML?",
+        "answer-1":".",
+        "answer-2":"!",
+        "answer-3":"/",
+        "answer-4":"\\",
+        "right-answer":"/"
+    },
+    {
+        "question":"8.How to create a hyperlink in HTML?",
+        "answer-1":"<a href = 'www.javatpoint.com'> javaTpoint.com </a>",
+        "answer-2":"<a url = 'www.javatpoint.com' javaTpoint.com /a>",
+        "answer-3":"<a link = 'www.javatpoint.com'> javaTpoint.com </a>",
+        "answer-4":"<a> www.javatpoint.com <javaTpoint.com /a>",
+        "right-answer":"<a href = 'www.javatpoint.com'> javaTpoint.com </a>"
+    },
+    {
+        "question":"9.How to insert an image in HTML?",
+        "answer-1":"<img href = \"jtp.png\" />",
+        "answer-2":"<img url = \"jtp.png\" />",
+        "answer-3":"<img link = \"jtp.png\" />",
+        "answer-4":"<img src = \"jtp.png\" />",
+        "right-answer":"<img src = \"jtp.png\" />"
+    },
+    {
+        "question":"10.<input> is: ",
+        "answer-1":"a format tag.",
+        "answer-2":"an empty tag.",
+        "answer-3":"All of the above",
+        "answer-4":"None of the above",
+        "right-answer":" an empty tag"
+    }
+]
