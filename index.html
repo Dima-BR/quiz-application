@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link href="main.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="quiz-app">
+        <div class="quiz-info">
+            <div class="categories">
+                Category:
+                <span>HTML</span>
+            </div>
+            <div class="count">
+                Questions Count: 
+                <span></span>
+                <!-- <span>10</span> -->
+            </div>
+        </div>
+            <!-- question area  -->
+            <div class="quiz-area">
+                <h2>HTML stands for</h2>
+            </div>
+            <!-- answer area  -->
+            <!-- answers-area >> for all answers every answer inside div so we create "answer" -->
+            <!-- answer>>  -->
+            <div class="answers-area"> 
+                <div class="answer">
+                    <input type="radio" id="answer-1" name="questions">
+                    <label for="answer-1">HighText Machine Language</label>
+                </div>
+                <!-- 2 -->
+                <div class="answer">
+                    <input type="radio" id="answer-2" name="questions">
+                    <label for="answer-2">HyperText and links Markup Language</label>
+                </div>
+                <!-- 3 -->
+                <div class="answer">
+                    <input type="radio" id="answer-3" name="questions">
+                    <label for="answer-3">HyperText Markup Language</label>
+                </div>
+                <!-- 4 -->
+                <div class="answer">
+                    <input type="radio" id="answer-4" name="questions">
+                    <label for="answer-4">HyperText Markup Language</label>
+                </div>
+                <button class="submit-btn">Submit Answer</button>
+                <!-- Number of question -->
+                <div class="bullets">
+                    <div class="spans">
+                        <!-- <span class="on"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span> -->
+                    </div>
+                    <div class="countdown">
+                        <span class="minutes">02</span>:<span class="seconds">45</span>
+                    </div>
+                </div>
+                <div class="results">
+                    <span class="perfect">Perfect</span>
+                    You answered 9 from 10
+                   results 
+                </div>
+            </div>
+        
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
